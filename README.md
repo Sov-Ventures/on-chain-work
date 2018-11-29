@@ -20,6 +20,6 @@ Item | Network | Payout | Roles | Reference
 13 | Cosmos | tokens | validator | https://cosmos.network
 14 | Vipnode | ETH | node operator | https://medium.com/vipnode/vipnode-progress-update-3-16b07037d3b3
 15 | Lightning Network | BTC | node operator | https://medium.com/coinmonks/the-lightning-network-how-to-install-and-hopefully-make-money-6e3058e3fa7c
-16 | Polkadot | DOT | validator, nominator, fishermen
-17 | Tezos | XTZ | validator
-18 | Dfinity | tokens | validator
+16 | Polkadot | DOT | validator, nominator, fishermen | https://polkadot.network/
+17 | Tezos | XTZ | baker, validator | https://medium.com/tezos/its-a-baker-s-life-for-me-c214971201e1
+18 | Dfinity | tokens | validator, miner | https://dfinity.org/miners/
